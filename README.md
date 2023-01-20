@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TeeGee222
+- 👋 Hi, I’m @Thomas-Goillot
 - 👀 I’m interested in development 
-- 🌱 I’m currently learning application and web development at ESGI in France
+- 🌱 I’m studiyng at ESGI in France
 - 📫 How to reach me: go on discord TeeGee#2357
 
 <!---
